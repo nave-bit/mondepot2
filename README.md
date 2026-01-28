@@ -1,2 +1,2 @@
 # mondepot2
-Dépot pour le tp en local
+Dépot pour le tp sur vsc
